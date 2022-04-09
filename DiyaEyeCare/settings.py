@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^3106x$0n%9h%so8@iu8w4sx668z8vkcjt7*#y=b66s@wo7q0h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'https://dishaeyecare.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
